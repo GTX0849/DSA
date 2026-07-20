@@ -35,13 +35,13 @@ class Solution(object):
 
 solution = Solution()
 
-testcase1 = solution.twoSum([2,7,11,15], 9)
-testcase2 = solution.twoSum([3,2,4], 6)
-testcase3 = solution.twoSum([3,3], 6)
+testCase1 = solution.twoSum([2,7,11,15], 9)
+testCase2 = solution.twoSum([3,2,4], 6)
+testCase3 = solution.twoSum([3,3], 6)
 
-print("Test Case 1 : ",testcase1)
-print("Test Case 2 : ",testcase2)
-print("Test Case 3 : ",testcase3)
+print("Test Case 1 : ",testCase1)
+print("Test Case 2 : ",testCase2)
+print("Test Case 3 : ",testCase3)
 
 
         
